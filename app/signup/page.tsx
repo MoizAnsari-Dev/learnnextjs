@@ -57,7 +57,7 @@ export default function SignUp() {
                       </div>
                       <div className="w-full relative mb-4">
                         <input
-                          type="password"
+                        type="password"
                           className="border-b border-black focus:outline-none focus:border-blue-600 text-sm w-full py-2"
                           id="pass"
                           placeholder="Password"
