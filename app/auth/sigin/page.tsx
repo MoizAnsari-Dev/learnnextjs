@@ -16,7 +16,7 @@ export default function Sigin() {
 			</div>
 			<div className="flex items-center justify-between mb-4">
 				<div className="flex items-center">
-					<input type="chekbox" id="remember" className="h-4 w-4 rounded border-gray-300 text-indigo-600 focus:ring-indigo-500 focus:outline-none" checked />
+					<input type="chekbox" id="remember" className="h-4 w-4 rounded border-gray-300 text-indigo-600 focus:ring-indigo-500 focus:outline-none" />
 				</div>
 				<a href="#"
 					className="text-xs text-indigo-500 hover:text-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500">Create
